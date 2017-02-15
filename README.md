@@ -1,1 +1,1 @@
-# TravisCI
+[![Build Status](https://travis-ci.org/ktran016/TravisCI.svg?branch=master)](https://travis-ci.org/ktran016/TravisCI)
